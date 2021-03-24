@@ -1,0 +1,7 @@
+IMPORTANT
+
+1. Do not change the names of the file in this folder, unless you know how to properly edit the scripts.
+
+2. The scripts needs Homebrew to work (it will be installed automatically), so if you have already installed it, make sure it is installed in the STANDARD folder (not in a custom folders). Also QEMU, (if you have already installed it) must be installed in the STANDARD folder of Homebrew. Visit Homebrew website to know which is the STANDARD folder where Homebrew is installed.
+
+3. You can modify the QEMU folder and use QEMU normally, (for advanced users), but do not change VirtualMachineInstaller files (the folder downloaded from Github and the two files macos10.0.iso and macos10.0.img).
